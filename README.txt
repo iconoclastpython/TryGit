@@ -16,3 +16,8 @@ Notes:
   ubuntu$ git checkout <branch>
   ubuntu$ git merge <branch>
   ubuntu$ git branch -d <branch>
+  ubuntu$ git log
+  ubuntu$ git show <log id>
+  ubuntu$ git diff <log id_1>..<log id_2>
+  ubuntu$ git diff
+  ubuntu$ git difftool
