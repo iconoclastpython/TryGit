@@ -1,1 +1,1 @@
-This little project is to help me familiar with git command in an advanced way!
+This little project is to help me review git command in an advanced way!
