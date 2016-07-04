@@ -21,4 +21,3 @@ Notes:
   ubuntu$ git diff <log id_1>..<log id_2>
   ubuntu$ git diff
   ubuntu$ git difftool
-ohoh there is a bug!!!!!!!!
