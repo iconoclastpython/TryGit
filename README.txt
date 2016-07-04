@@ -5,6 +5,7 @@ Notes:
   ubuntu$ git config --global user.email ico.yigang@hotmail.com
   ubuntu$ git init
   ubuntu$ git add <filename>
+  ubuntu$ git add -A
   ubuntu$ git status
   ubuntu$ git commit -m "<commit note>"
   ubuntu$ git remote add origin git@github.com:iconoclastpython/<repository>.git
