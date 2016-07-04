@@ -1,4 +1,4 @@
-# This project is to review git command in an advanced way!
+This project is to review git command in an advanced way!
 
 Notes:
   ubuntu$ git config --global user.name "iconoclastpython"
