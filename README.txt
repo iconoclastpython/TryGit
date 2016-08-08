@@ -15,6 +15,7 @@ Notes:
   ubuntu$ git branch <new branch>
   ubuntu$ git branch
   ubuntu$ git checkout <branch>
+  ubuntu$ git request-pull [-p] <start> <url> [<end>]
   ubuntu$ git merge <branch>
   ubuntu$ git branch -d <branch>
   ubuntu$ git log
@@ -23,4 +24,4 @@ Notes:
   ubuntu$ git diff
   ubuntu$ git difftool
   ubuntu$ git checkout <log id_previous> <file>
-  ubuntu$ git request-pull [-p] <start> <url> [<end>]
+  
