@@ -23,3 +23,4 @@ Notes:
   ubuntu$ git diff
   ubuntu$ git difftool
   ubuntu$ git checkout <log id_previous> <file>
+  ubuntu$ git request-pull [-p] <start> <url> [<end>]
